@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fredpeperoni
-- 👀 I’m interested in Data Science and Machine Learning and its applications in Chemistry
+- 👀 I’m interested in Data Science and Machine Learning and their applications in Chemistry
 - 🌱 I’m currently learning SQL
 
 

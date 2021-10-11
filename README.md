@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fredpeperoni
 - 👀 I’m interested in Data Science and Machine Learning and their applications in Chemistry
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently study ML, Statistics, Discrete models and Linux in Ozon Masters 
 
 
 <!---

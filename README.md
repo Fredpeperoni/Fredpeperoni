@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fredpeperoni
 - 👀 I’m interested in Machine Learning and Chemistry
-- 🌱 I’m currently trying to learn graph ML 
+- 🌱 I’m currently trying to sleep more than 6 hours per day 
 
 
 <!---

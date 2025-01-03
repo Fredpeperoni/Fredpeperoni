@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fredpeperoni
 - 👀 I’m interested in Machine Learning and Chemistry
-- 🌱 I’m currently trying to develop my skills in fast programming
+- 🌱 I’m currently trying to develop my skills in Goland and bayesian networks
 
 
 <!---

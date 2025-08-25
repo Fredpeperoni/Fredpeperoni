@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fredpeperoni
-- 👀 I’m interested in Machine Learning and Chemistry
-- 🌱 I’m currently trying to develop my skills in Golang and bayesian networks
+- 👀 I’m interested in Machine Learning, A/B Testing and Chemistry
+- 🌱 I’m currently trying to develop my skills in AI agents for computer vision
 
 
 <!---
